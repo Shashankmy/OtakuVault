@@ -90,3 +90,13 @@ npx cap open android
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 💬 A Note from the Creator
+
+This project was built purely for fun and to push my limits with full-stack mobile development — experimenting with everything from real-time databases and social feeds to native Android packaging, all while working alongside AI tools to see how far things could go.
+
+If you're interested in using the app, want a copy of the APK, or just want to say hi — feel free to reach out. It's completely free, no strings attached.
+
+📧 **shashimy12345@gmail.com**
