@@ -56,8 +56,8 @@ Follow these steps to run OtakuVault locally or build it for your own device.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Shashankmy/OtakuVault_Mobile.git
-cd OtakuVault_Mobile
+git clone https://github.com/Shashankmy/OtakuVault.git
+cd OtakuVault
 ```
 
 ### 2. Install Dependencies
