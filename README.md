@@ -3,6 +3,13 @@
 A stunning, blazing-fast native mobile application to track all your Anime, Manga, Movies, and TV shows in one unified, aesthetic vault. Built with web technologies and powered by Capacitor for a native mobile experience.
 
 <div align="center">
+  <a href="https://github.com/Shashankmy/OtakuVault_Mobile/releases/latest/download/OtakuVault.apk">
+    <img src="https://img.shields.io/badge/Download%20APK-latest-brightgreen?style=for-the-badge&logo=android" alt="Download APK" />
+  </a>
+</div>
+
+
+<div align="center">
   <img src="docs/hero-demo.gif" width="250" alt="OtakuVault Demo" />
 </div>
 
@@ -49,7 +56,7 @@ Follow these steps to run OtakuVault locally or build it for your own device.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/OtakuVault_Mobile.git
+git clone https://github.com/Shashankmy/OtakuVault_Mobile.git
 cd OtakuVault_Mobile
 ```
 
@@ -85,7 +92,7 @@ npx cap open android
 - **Anime.js:** For smooth, physics-based micro-interactions.
 - **Capacitor:** Native bridge and mobile packaging.
 - **Supabase:** Backend, authentication, and real-time database.
-- **Anilist API. MangaDex API & TMDB API:** For fetching massive media databases.
+- **Anilist API, MangaDex API, & TMDB API:** For fetching massive media databases.
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
