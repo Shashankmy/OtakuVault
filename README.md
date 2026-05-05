@@ -85,7 +85,7 @@ npx cap open android
 - **Anime.js:** For smooth, physics-based micro-interactions.
 - **Capacitor:** Native bridge and mobile packaging.
 - **Supabase:** Backend, authentication, and real-time database.
-- **Jikan API & TMDB API:** For fetching massive media databases.
+- **Anilist API. MangaDex API & TMDB API:** For fetching massive media databases.
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
