@@ -32,7 +32,7 @@ A stunning, blazing-fast native mobile application to track all your Anime, Mang
 ## 🎥 In Action
 
 <div align="center">
-  <img src="docs/hero-demo.gif" width="220" alt="Home Scroll Demo" /> &nbsp;
+  <img src="docs/hero-demo2.gif" width="220" alt="Home Scroll Demo" /> &nbsp;
   <img src="docs/modal-interactions.gif" width="220" alt="Modal Interactions" />
 </div>
 
